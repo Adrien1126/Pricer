@@ -14,6 +14,7 @@ In our work, we assume that :
 We assume that no dividends are paids. 
 
 We are mainly interested in pricing one-factor European call and put options based on a single asset S whose values change according to the stochastic differential equation given by : 
+
 $$
 dS=\mu S dt + \sigma S dW
 $$
