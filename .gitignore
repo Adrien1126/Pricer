@@ -13,3 +13,6 @@
 
 # Ignorer le fichier spécifique louismain.cpp
 src/Louismain.cpp
+.vscode/
+louis_option_pricing
+
