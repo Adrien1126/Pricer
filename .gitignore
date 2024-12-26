@@ -1,0 +1,15 @@
+# Ignorer tous les fichiers compilés
+*.o
+*.out
+*.exe
+*.obj
+*.bin
+*.dll
+*.so
+*.dylib
+
+# Ignorer les exécutables spécifiques générés dans `bin`
+/bin/
+
+# Ignorer le fichier spécifique louismain.cpp
+src/Louismain.cpp
